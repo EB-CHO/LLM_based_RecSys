@@ -2,7 +2,7 @@
 LLM 기반 Recommender System 구현을 위한 Repository 입니다.
 
 ## Data Curation
-- [x] Restaurant type (식당/까페/술집) 별 mood labling.
+- [x] Restaurant type (식당/카페/술집) 별 mood labling.
 - [x] LLM instruction tuning 용 데이터 준비. 
 - [x] RS 모델 예측 기반 Vector Search 용 DB 준비.
 
